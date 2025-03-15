@@ -3,6 +3,3 @@ This repository contains my solutions to Object-Oriented Programming problems fr
 
 ## Structure
 - **HackerRank/**: Solutions to problems from HackerRank.
-
-## Problems Solved
-- **JavaInheritanceII.java**: A HackerRank problem to practice inheritance in Java. Solved on March 15, 2025.
