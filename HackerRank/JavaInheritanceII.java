@@ -4,7 +4,6 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-
  class Arithmetic {
     int add(int i,int j){
         return i+j;
