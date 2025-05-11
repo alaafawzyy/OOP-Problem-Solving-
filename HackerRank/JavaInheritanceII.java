@@ -13,7 +13,6 @@ import java.util.regex.*;
  class Adder extends Arithmetic {
      
  }
-
 public class Solution{
     public static void main(String []args){
         // Create a new Adder object
