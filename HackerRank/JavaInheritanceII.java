@@ -9,8 +9,7 @@ import java.util.regex.*;
         return i+j;
     }
 }
- class Adder extends Arithmetic {  
- }
+ class Adder extends Arithmetic {}
 public class Solution{
     public static void main(String []args){
         // Create a new Adder object
